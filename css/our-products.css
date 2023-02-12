@@ -1,0 +1,52 @@
+/**** Body ****/
+body {
+    background-color:#E9ECEF;
+}
+/******* Navbar *******/
+.navbar {
+    list-style-type: none;
+    display: inline-flex;
+    margin-bottom: -5px;  
+}
+/*** Navbar - Li ***/
+li {
+    padding-left: 15px;
+    margin-bottom: 2px;
+}
+/*** Navbar - a ***/
+a {
+    color: #E9ECEF;
+}
+/***** Head *****/
+h4 {
+    margin-right: 20px;
+}
+h1 {
+    text-align: center;
+    margin-top: 5px;
+}
+/***** Card *****/
+.card {
+    margin-top: 15px;
+}
+/***** Prices *****/
+.prices {
+    background-color: grey; 
+    width: 50px;
+    text-align: center; 
+    border-radius: 7%;
+}
+/***** Shop - Icon *****/
+.shoppingcar {
+    height: 30px;
+    width: 30px;
+    margin-left: 115px;
+    background: url('/img/shoppingblue.png');
+}
+
+.shoppingcar:hover {
+    background-image: url('/img/shoppingwhite.png');    
+  }
+img {
+    height: 260px;
+}

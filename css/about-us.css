@@ -1,0 +1,26 @@
+body {
+    background-color:#E9ECEF;
+}
+/******* Navbar *******/
+.navbar {
+    list-style-type: none;
+    display: inline-flex;
+    margin-bottom: -5px;  
+}
+/*** Navbar - Li ***/
+li {
+    padding-left: 15px;
+    margin-bottom: 2px;
+}
+/*** Navbar - a ***/
+a {
+    color: #E9ECEF;
+}
+/***** Head *****/
+h4 {
+    margin-right: 20px;
+}
+/***** Text - Align *****/
+.center {
+    text-align: center;   
+}
